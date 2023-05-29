@@ -15,7 +15,10 @@ body {
   font-weight: 400;
   color: #333;
 }
-
+p {
+  margin: 1rem 0;
+  color: #333;
+}
 /* GENERAL REUSABLE COMPONENTS */
 
 .container {
@@ -119,4 +122,8 @@ body {
 
 .margin-right-sm {
   margin-right: 1.6rem !important;
+}
+
+strong {
+  font-weight: 500;
 }
